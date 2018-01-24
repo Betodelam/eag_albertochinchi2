@@ -5,3 +5,10 @@
 	border:solid 1px #00ff00;
 	
 }
+
+.second{
+	width: 60px;
+	height: 300px;
+	background-color: #ccee00;
+	border:dashed 1px #ff00ff;
+}
